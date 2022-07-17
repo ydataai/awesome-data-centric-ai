@@ -30,6 +30,7 @@ For this repository, we focus on three main pillars of Data-Centric AI.
 - [SDV](https://github.com/sdv-dev/SDV) - The Synthetic Data Vault (SDV) is a Synthetic Data Generation ecosystem of libraries that allows users to easily learn single-table, multi-table, and time-series datasets to, later on, generate new Synthetic Data that has the same format and statistical properties as the original dataset.
 - [Pomegranate](https://github.com/jmschrei/pomegranate) - Pomegranate is a package for building probabilistic models in Python that is implemented in Cython for speed. Most of these models can sample data. 
 - [Gretel Synthetics](https://github.com/gretelai/gretel-synthetics) - Gretel Synthetics package allows developers to quickly get immersed with synthetic data generation through the use of neural networks.
+- [Zpy](https://github.com/ZumoLabs/zpy/) -  Zpy solves the problem of lack of business specific datasets for computer vision based applications. Zpy uses Python and Blender (an open source 3D graphics toolset) to create synthetic datasets suitable for unique business cases.
 
 ## Data Labelling
 
